@@ -1,1 +1,1 @@
-"# GosuLauncherD3nX" 
+# GosuLauncherD3nX
